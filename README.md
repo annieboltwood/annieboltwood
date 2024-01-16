@@ -1,6 +1,5 @@
-### Hi and Welcome!
 ![Banner](https://github.com/annieboltwood/annieboltwood/blob/main/Title%20Banner.PNG?raw=true)
-
+### Hi and Welcome!
 <!--
 **annieboltwood/annieboltwood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

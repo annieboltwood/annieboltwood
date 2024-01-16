@@ -10,8 +10,10 @@ Welcome to my GitHub! My name is Annie and I'm a 3rd year computer science major
 <p align="center">
 Want to know a bit more about how I navigated my journey as a woman in STEM?
 </p>
+<p align="center">
+  <a href="https://www.example.com](https://scwist.ca/scwist-youth-skills-development-awardee-finds-her-passion-in-tech/)">Here's an Article</a>
+</p>
 
-[Here's an Article](https://scwist.ca/scwist-youth-skills-development-awardee-finds-her-passion-in-tech/)
 
 
 <h3 align="center">CONNECT WITH ME</h3>

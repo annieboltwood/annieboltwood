@@ -11,7 +11,7 @@ Welcome to my GitHub! My name is Annie and I'm a 3rd year computer science major
 Want to know a bit more about how I navigated my journey as a woman in STEM?
 </p>
 <p align="center">
-  <a href="https://scwist.ca/scwist-youth-skills-development-awardee-finds-her-passion-in-tech/)">Here's an Article</a>
+  <a href="https://scwist.ca/scwist-youth-skills-development-awardee-finds-her-passion-in-tech/">Here's an Article</a>
 </p>
 
 

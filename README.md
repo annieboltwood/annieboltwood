@@ -1,5 +1,8 @@
 ![Banner](https://github.com/annieboltwood/annieboltwood/blob/main/Title%20Banner.PNG?raw=true)
-### Hi and Welcome!
+
+### HELLO AND WELCOME
+Need some pixel art? I'm the one to call. But I assume that's not what you're here for..<br>
+Welcome to my GitHub! My name is Annie and I'm a 3rd year computer science major attending SFU. 
 <!--
 **annieboltwood/annieboltwood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -8,10 +8,9 @@ Welcome to my GitHub! My name is Annie and I'm a 3rd year computer science major
 
 <h3 align = "center"> MORE ABOUT ME </h3>
 <p align="center">
-Want to know a bit more about how I navigated my journey as a woman in STEM?<br>
-[Here's an Article](https://scwist.ca/scwist-youth-skills-development-awardee-finds-her-passion-in-tech/)
-
+Want to know a bit more about how I navigated my journey as a woman in STEM?
 </p>
+[Here's an Article](https://scwist.ca/scwist-youth-skills-development-awardee-finds-her-passion-in-tech/)
 
 
 <h3 align="center">CONNECT WITH ME</h3>

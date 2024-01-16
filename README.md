@@ -6,6 +6,13 @@ Need some pixel art? I'm the one to call. But I assume that's not what you're he
 Welcome to my GitHub! My name is Annie and I'm a 3rd year computer science major attending SFU. 
 </p>
 
+<h3 align = "center"> MORE ABOUT ME </h3>
+<p align="center">
+Want to know a bit more about how I navigated my journey as a woman in STEM?<br>
+[Here's an Article](https://scwist.ca/scwist-youth-skills-development-awardee-finds-her-passion-in-tech/)
+
+</p>
+
 
 <h3 align="center">CONNECT WITH ME</h3>
 <p align="center">

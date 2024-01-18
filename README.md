@@ -10,17 +10,11 @@ Welcome to my GitHub! My name is Annie and I'm a 3rd year computer science major
 - 🕹️ Enthusiastic about game development, with a recent focus on a 2D Java game project.
 - 🧰 Comfortable working on both functional and aesthetically pleasing interfaces.
 
-<h3 align = "center"> MORE ABOUT ME </h3>
-<p align="center">
-Want to know a bit more about how I navigated my journey as a woman in STEM?
-</p>
-<p align="center">
-  <a href="https://scwist.ca/scwist-youth-skills-development-awardee-finds-her-passion-in-tech/">Here's an Article</a>
-</p>
+## MORE ABOUT ME 
+Want to know a bit more about how I navigated my journey as a woman in STEM?<br>
+[Here's an Aritcle](https://scwist.ca/scwist-youth-skills-development-awardee-finds-her-passion-in-tech/)
 
-
-
-<h3 align="center">CONNECT WITH ME</h3>
+## CONNECT WITH ME
 <p align="center">
 <a href="https://linkedin.com/in/annie-boltwood-3436b5193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="annieboltwood" height="30" width="40" /></a>
 </p>

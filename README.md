@@ -2,8 +2,9 @@
 
 ## 👋 HELLO AND WELCOME 👋 </h3>
 Need some pixel art? I'm the one to call. But I assume that's not what you're here for..<br>
-Welcome to my GitHub! My name is Annie and I'm a 3rd year computer science major attending SFU. 
+Welcome to my GitHub! My name is Annie and I'm a 3rd year computer science major attending SFU. <br>
 
+Okay, lets make this brief, here's a 10 second rundown about me:
 - 💻 Computer Science student equipped with over 7 coding languages.
 - 🎨 Strong foundation in art and design.
 - 🌐 Experienced in creating visually appealing interfaces and user-friendly applications.

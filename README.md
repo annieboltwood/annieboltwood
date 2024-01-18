@@ -1,10 +1,13 @@
 ![Banner](https://github.com/annieboltwood/annieboltwood/blob/main/Title%20Banner.PNG?raw=true)
 
-<h3 align = "center"> 👋 HELLO AND WELCOME 👋 </h3>
-<p align="center">
+<h3> 👋 HELLO AND WELCOME 👋 </h3>
 Need some pixel art? I'm the one to call. But I assume that's not what you're here for..<br>
 Welcome to my GitHub! My name is Annie and I'm a 3rd year computer science major attending SFU. 
-</p>
+- 💻 Computer Science student with proficiency in over seven coding languages.
+- 🎨 Strong foundation in art, applying design principles to my projects.
+- 🌐 Experienced in creating visually appealing interfaces and user-friendly applications.
+- 🕹️ Enthusiastic about game development, with a recent focus on a 2D Java game project.
+- 🧰 Comfortable working on both functional and aesthetically pleasing interfaces.
 
 <h3 align = "center"> MORE ABOUT ME </h3>
 <p align="center">

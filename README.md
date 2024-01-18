@@ -4,11 +4,10 @@
 Need some pixel art? I'm the one to call. But I assume that's not what you're here for..<br>
 Welcome to my GitHub! My name is Annie and I'm a 3rd year computer science major attending SFU. 
 
-- 💻 Computer Science student with proficiency in over seven coding languages.
-- 🎨 Strong foundation in art, applying design principles to my projects.
+- 💻 Computer Science student equipped with over 7 coding languages.
+- 🎨 Strong foundation in art and design.
 - 🌐 Experienced in creating visually appealing interfaces and user-friendly applications.
-- 🕹️ Enthusiastic about game development, with a recent focus on a 2D Java game project.
-- 🧰 Comfortable working on both functional and aesthetically pleasing interfaces.
+- 🕹️ Enthusiastic about game development.
 
 ## MORE ABOUT ME 
 Want to know a bit more about how I navigated my journey as a woman in STEM?<br>

@@ -1,6 +1,6 @@
 ![Banner](https://github.com/annieboltwood/annieboltwood/blob/main/Title%20Banner.PNG?raw=true)
 
-<h3 align = "center"> HELLO AND WELCOME </h3>
+<h3 align = "center"> 👋 HELLO AND WELCOME 👋 </h3>
 <p align="center">
 Need some pixel art? I'm the one to call. But I assume that's not what you're here for..<br>
 Welcome to my GitHub! My name is Annie and I'm a 3rd year computer science major attending SFU. 

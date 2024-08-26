@@ -10,7 +10,7 @@ Some background:
 - 🕹️ Enthusiastic about game development.
 
 ## MORE ABOUT ME 
-Want to know a bit more about how I navigated my journey as a woman in STEM?<br>
+Want to know a bit more about how I navigated my journey in STEM?<br>
 [Here's an Aritcle](https://scwist.ca/scwist-youth-skills-development-awardee-finds-her-passion-in-tech/)
 
 ## CONNECT WITH ME
